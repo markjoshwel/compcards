@@ -15,7 +15,68 @@
                     "extendRev": 0,
                     "media_files": [],
                     "name": "Unit 1.1 - Number Systems",
-                    "notes": []
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Denary Number System</b><br><br>Number system that is made up of&nbsp;&nbsp;{{c1::10 unique digits}}",
+                                ""
+                            ],
+                            "guid": "eaPhy2LH[,",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Binary Number System</b><br><br>Number system that is made up of&nbsp;&nbsp;{{c1::2 unique digits}}",
+                                ""
+                            ],
+                            "guid": "w^c1D24t*E",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Hexadecimal Number System</b><br><br>Number system that is made up of&nbsp;<b>&nbsp;</b>{{c1::16 unique digits}}",
+                                ""
+                            ],
+                            "guid": "nbOD2#[T8P",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Leading Zero</b><br><br>Zero digit (0) that is&nbsp;{{c1::to the left of the first non-zero digit}}<b><span style=\"font-weight: 400;\">&nbsp;in a number</span></b>",
+                                "<b><span style=\"font-weight: 400;\"><br>Example: </span><span style=\"font-weight: 400; text-decoration-line: underline;\">00</span><span style=\"font-weight: 400;\">101001</span></b>"
+                            ],
+                            "guid": "Bz=DlE|>jY",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Internet Protocol (IP) Address</b><br><br>{{c1::Sequence of bytes}}<b><span style=\"font-weight: 400;\">&nbsp;that is used to&nbsp;</span></b>{{c1::identify a computer or device}}<b><span style=\"font-weight: 400;\">&nbsp;on&nbsp;</span></b>{{c1::the Internet}}",
+                                ""
+                            ],
+                            "guid": "J^mS6Lx50J",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Media Access Control (MAC) Address</b></div><br>{{c1::Sequence of bytes}} that is used to {{c1::identify}} a particular {{c1::network interface controller}}<br>",
+                                ""
+                            ],
+                            "guid": "NslCT(o8ef",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        }
+                    ]
                 },
                 {
                     "__type__": "Deck",
@@ -140,6 +201,60 @@
     "extendRev": 0,
     "media_files": [],
     "name": "O-Level Computing (7155)",
-    "note_models": [],
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        }
+    ],
     "notes": []
 }
