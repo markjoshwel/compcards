@@ -6,7 +6,82 @@
             "children": [
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "3f8c89a5-35cb-11ed-a1c2-1418c39411c3",
+                            "deck_config_uuid": "2c4ba783-3430-11ed-af17-1418c39411c3",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Key Terms",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Denary Number System</b><br><br>Number system that is made up of&nbsp;&nbsp;{{c1::10 unique digits}}",
+                                        ""
+                                    ],
+                                    "guid": "eaPhy2LH[,",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Binary Number System</b><br><br>Number system that is made up of&nbsp;&nbsp;{{c1::2 unique digits}}",
+                                        ""
+                                    ],
+                                    "guid": "w^c1D24t*E",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Hexadecimal Number System</b><br><br>Number system that is made up of&nbsp;<b>&nbsp;</b>{{c1::16 unique digits}}",
+                                        ""
+                                    ],
+                                    "guid": "nbOD2#[T8P",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Leading Zero</b><br><br>Zero digit (0) that is&nbsp;{{c1::to the left of the first non-zero digit}}<b><span style=\"font-weight: 400;\">&nbsp;in a number</span></b>",
+                                        "<b><span style=\"font-weight: 400;\"><br>Example: </span><span style=\"font-weight: 400; text-decoration-line: underline;\">00</span><span style=\"font-weight: 400;\">101001</span></b>"
+                                    ],
+                                    "guid": "Bz=DlE|>jY",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Internet Protocol (IP) Address</b><br><br>{{c1::Sequence of bytes}}<b><span style=\"font-weight: 400;\">&nbsp;that is used to&nbsp;</span></b>{{c1::identify a computer or device}}<b><span style=\"font-weight: 400;\">&nbsp;on&nbsp;</span></b>{{c1::the Internet}}",
+                                        ""
+                                    ],
+                                    "guid": "J^mS6Lx50J",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Media Access Control (MAC) Address</b></div><br>{{c1::Sequence of bytes}} that is used to {{c1::identify}} a particular {{c1::network interface controller}}<br>",
+                                        ""
+                                    ],
+                                    "guid": "NslCT(o8ef",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
                     "crowdanki_uuid": "2c60e4de-3430-11ed-9f08-1418c39411c3",
                     "deck_config_uuid": "2c4ba783-3430-11ed-af17-1418c39411c3",
                     "desc": "",
@@ -15,72 +90,476 @@
                     "extendRev": 0,
                     "media_files": [],
                     "name": "Unit 1.1 - Number Systems",
-                    "notes": [
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<b>Denary Number System</b><br><br>Number system that is made up of&nbsp;&nbsp;{{c1::10 unique digits}}",
-                                ""
-                            ],
-                            "guid": "eaPhy2LH[,",
-                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<b>Binary Number System</b><br><br>Number system that is made up of&nbsp;&nbsp;{{c1::2 unique digits}}",
-                                ""
-                            ],
-                            "guid": "w^c1D24t*E",
-                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<b>Hexadecimal Number System</b><br><br>Number system that is made up of&nbsp;<b>&nbsp;</b>{{c1::16 unique digits}}",
-                                ""
-                            ],
-                            "guid": "nbOD2#[T8P",
-                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<b>Leading Zero</b><br><br>Zero digit (0) that is&nbsp;{{c1::to the left of the first non-zero digit}}<b><span style=\"font-weight: 400;\">&nbsp;in a number</span></b>",
-                                "<b><span style=\"font-weight: 400;\"><br>Example: </span><span style=\"font-weight: 400; text-decoration-line: underline;\">00</span><span style=\"font-weight: 400;\">101001</span></b>"
-                            ],
-                            "guid": "Bz=DlE|>jY",
-                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<b>Internet Protocol (IP) Address</b><br><br>{{c1::Sequence of bytes}}<b><span style=\"font-weight: 400;\">&nbsp;that is used to&nbsp;</span></b>{{c1::identify a computer or device}}<b><span style=\"font-weight: 400;\">&nbsp;on&nbsp;</span></b>{{c1::the Internet}}",
-                                ""
-                            ],
-                            "guid": "J^mS6Lx50J",
-                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div><b>Media Access Control (MAC) Address</b></div><br>{{c1::Sequence of bytes}} that is used to {{c1::identify}} a particular {{c1::network interface controller}}<br>",
-                                ""
-                            ],
-                            "guid": "NslCT(o8ef",
-                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
-                            "tags": []
-                        }
-                    ]
+                    "notes": []
                 },
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "3f8cb0bb-35cb-11ed-8880-1418c39411c3",
+                            "deck_config_uuid": "2c4ba783-3430-11ed-af17-1418c39411c3",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Key Terms",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Data Corruption</b><br><br>When data is made {{c1::unusable}} by {{c1::errors or alterations}}",
+                                        ""
+                                    ],
+                                    "guid": "J}56<N9?~l",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Data Loss</b><br><br>When data is {{c1::destroyed and cannot be recovered}}",
+                                        ""
+                                    ],
+                                    "guid": "r`VttK,m$]",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Backup</b><br><br>{{c1::Copy}} of data that is made in case the original is {{c1::damaged or lost}}",
+                                        ""
+                                    ],
+                                    "guid": "C|47|3eTSX",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Uninterruptible Power Supply (UPS)</b></div><div><br></div><div>Device that {{c1::provides enough emergency power}} for a computer to {{c1::properly shut down in case of a power failure}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "Oje:g5U]sZ",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Authentication</b></div><div><br></div><div>Process of {{c1::verifying the identity of a user}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "DB/mzM]*et",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Authentication Factor</b></div><div><br></div><div>{{c1::Category of evidence}} used for authentication, and is something {{c1::the user knows}}, something {{c1::the user owns}}, or something {{c1::that is measured from a physical part of the user}}</div>",
+                                        "<br>Examples:<br><ul><li>Something the user knows: <i>A password</i></li><li>Something the users owns: <i>A phone</i></li><li>Something that is measured from a physical part of the user: <i>Fingerprint</i></li></ul>"
+                                    ],
+                                    "guid": "CPjWI1:]<f",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Unauthorised Access</b></div><div><br></div><div>Situation where {{c1::data owned by someone}} is {{c1::used by someone else}}, such as {{c1::an intruder}}, {{c1::without permission}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "Ad]d:hM2gq",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Security Token</b></div><div><br></div><div>Device that is used specifically for {{c1::authentication purposes}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "K-R!b9kve3",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Two-factor Authentication</b></div><div><br></div><div>Type of authentication that uses {{c1::evidence}} from both {{c1::something the user knows}} and {{c1::something the user owns}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "HvX7eM7f+J",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Biometrics</b></div><div><span><br></span></div><div>Type of authentication based on the {{c1::measurement of human physical characteristics}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "cM#e6L(ps=",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Identity Theft</b></div><div><br></div><div>{{c1::Impersonation}} of another person to {{c1::steal personal details}} such as {{c1::name and identity number}} for {{c1::fraudulent purposes}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "GDp*Lm7^?r",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Authorisation/Access Control</b></div><div><br></div><div>Ability of a computer to control {{c1::a user’s access to data and resources}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "pX`Jj;tqnN",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Permissions</b></div><div><br></div><div>Settings to {{c1::control the ability of users}} to {{c1::view or make changes to the contents of a file or folder}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "Q4Acn8N9P:",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Administrator</b></div><div><br></div><div>{{c1::Special}} user who can {{c1::override the permissions}} for {{c1::almost any file or folder}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "uMRSztBpAh",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Administrator Rights</b></div><div><b><br></b></div><div>Ability of a user to {{c1::perform tasks}} related to {{c1::authentication and authorisation}}, such as {{c1::creating and removing user accounts}}, {{c1::resetting passwords}} and {{c1::overriding file permissions}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "exC4+GU`E~",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Firewall</b></div><div><b><br></b></div><div>Device or {{c1::computer program}} that {{c1::prevents unauthorised access to or from a private network}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "KxkZ<Rzf;g",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Traffic</b></div><div><b><br></b></div><div>{{c1::Transmission of data over a network}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "I<[YOfo;qu",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Intranet</b></div><div><b><br></b></div><div>{{c1::Private network}} that only {{c1::authorised users within an organisation can access}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "Ko@m[o8gV=",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Application</b></div><div><b><br></b></div><div>{{c1::Software}} designed for users to {{c1::perform specific tasks}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "e0}L[#n!5v",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Encryption</b></div><div><br></div><div>Process of {{c1::encoding a message}} so that a {{c1::secret key}} is needed to {{c1::decode the data}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "cu@GJk]+FY",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Malicious Software/Malware</b></div><div><b><br></b></div><div>Software that is {{c1::intentionally used to damage, disrupt or gain unauthorised access}} to a computer system</div>",
+                                        ""
+                                    ],
+                                    "guid": "Q1@f&=b*jM",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Spamming</b></div><div><br></div><div>{{c1::Mass distribution}} of {{c1::unwanted messages or advertising}} to {{c1::email addresses}} which are collected from sources such as {{c1::public mailing lists, social networking sites, company websites and personal blogs}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "f:HNmMCeM-",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Anti-spyware/Anti-virus</b></div><div><br></div><div>Software to {{c1::detect, remove and stop}} spyware/viruses and other malware {{c1::from running}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "E4eh:_Z(Z*",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Operating System</b></div><div><br></div><div>Software designed to {{c1::support a computer’s basic functions}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "cq`8F(E6x#",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Signature (malware)</b></div><div><br></div><div>{{c1::Unique evidence}} that is used to {{c1::detect a known version of some malicious software}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "i8Oe`-1^18",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Copyright</b></div><div><br></div><div>The {{c1::legal right of owners}} to {{c1::control the use and distribution}} of their {{c1::intellectual property}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "N^SW|1e!~$",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Intellectual Property</b></div><div><br></div><div>{{c1::Creations of the mind}} that {{c1::have value}} but can exist {{c1::purely as data with no physical form}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "p+&Vn)^d|s",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Copyright Infringement</b></div><div><div><br></div><div>{{c1::Use or distribution}}&nbsp;of&nbsp;{{c1::copyrighted work}}&nbsp;without&nbsp;{{c1::the permission of the copyright owner}}</div></div>",
+                                        ""
+                                    ],
+                                    "guid": "DxXVR]U_vN",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Plagiarism</b></div><div><b><br></b></div><div>{{c1::Passing off someone else’s original work as one’s own}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "nNP}O)]mCA",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Licence</b></div><div><br></div><div>{{c1::Official description of activities}} that are {{c1::authorised or forbidden}} by the {{c1::owner of intellectual property}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "uax*Z,(}5)",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Software piracy</b></div><div><br></div><div>Crime of {{c1::copying, distributing and/or using proprietary software}} in a manner {{c1::that is not permitted by its licence}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "uP|Hy0o2^d",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Free and Open-Source Software (FOSS)</b></div><div><br></div><div>Software where users are given {{c1::freedom to change, copy, study and share}} the software {{c1::and its source code}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "OxJap,Xfz<",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Public Domain Software</b></div><div><br></div><div>Software where {{c1::the legal protections that are typically granted to intellectual property}} have {{c1::either expired, been surrendered or are simply inapplicable}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "eh/IS/+)^9",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Freeware</b><br></div><div><b><br></b></div><div>{{c1::Proprietary}} software that is {{c1::available for use at no cost}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "LbcaiFL*`%",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Open Courseware</b></div><div><br></div><div>{{c1::Higher-education course materials}} such as {{c1::videos and notes created by universities}} and {{c1::distributed for free on the Internet}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "EGvS.S93[j",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Proprietary Software</b></div><div><br></div><div>{{c1::Commercial}} software for which {{c1::most of the legal protections under copyright are retained}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "v<[:+IRUdf",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Shareware</b></div><div><br></div><div>{{c1::Demonstration}} software that {{c1::is distributed for free}} but {{c1::for a specific evaluation period only}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "dh*-)`S;S:",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Crack</b></div><div><br></div><div>Program that {{c1::modifies proprietary software}} so that the {{c1::software cannot detect that it is being used illegally}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "LpS(d;67dF",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Cookie</b></div><div><br></div><div>A {{c1::small file}} used by {{c1::websites}} to {{c1::store personal information}} on a {{c1::user’s web browser}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "HK;F-rXJZA",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Pharming</b></div><div><br></div><div>The {{c1::interception of requests sent from a computer to a legitimate website and redirection to a fake website}} to {{c1::steal personal data or credit card details}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "E_evieCR,S",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Phishing</b><br><br></div><div>The {{c1::use of emails and fake websites that appear to be from reputable companies}} in order to {{c1::steal personal information such as passwords and credit card numbers from users}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "Mq;gBrN(%v",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Spyware</b></div><div><b><br></b></div><div>A {{c1::hidden}} program that {{c1::secretly collects personal information about its users}} and {{c1::transmits this information to attackers without the users’ knowledge}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "xgTM,NJBHN",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Trojan Horse</b><br><br>A {{c1::computer program}} that {{c1::pretends to be a harmless file or useful application}}",
+                                        ""
+                                    ],
+                                    "guid": "k^n>o_c.c|",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Virus</b><br><br></div><div>A {{c1::computer program}} that {{c1::attaches itself to a normally harmless program and modifies it}}</div><div><br></div><div>When the {{c1::modified program is run by a user}}, the virus {{c1::attaches copies of itself to any other programs it can find}}, {{c1::thus “infecting” them}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "O-ee7GgwjD",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Worm</b><br></div><div><br></div><div>A computer program that {{c1::runs automatically}} and {{c1::attempts to spread by sending copies of itself to other computers}}</div><div><br></div><div>Unlike a virus, a worm {{c1::does not need to attach itself to an existing program}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "n{CN1h_NmM",
+                                    "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
                     "crowdanki_uuid": "2c4ba782-3430-11ed-a1b2-1418c39411c3",
                     "deck_config_uuid": "2c4ba783-3430-11ed-af17-1418c39411c3",
                     "desc": "",
@@ -117,7 +596,142 @@
         },
         {
             "__type__": "Deck",
-            "children": [],
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "3f8cff2c-35cb-11ed-a753-1418c39411c3",
+                    "deck_config_uuid": "2c4ba783-3430-11ed-af17-1418c39411c3",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Key Terms",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Algorithm</b></div><div><br></div><div>{{c1::Set of step-by-step instructions for solving a problem}}</div>",
+                                ""
+                            ],
+                            "guid": "skk~r.oU=T",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Input (algorithms)</b></div><div><br></div><div>Data {{c1::used by an algorithm}} that can {{c1::affect what is required for correct output}}</div>",
+                                ""
+                            ],
+                            "guid": "z-~{hbg:<2",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Output (algorithms)</b></div><div><br></div><div>{{c1::Results produced}}&nbsp;by an algorithm</div>",
+                                ""
+                            ],
+                            "guid": "P|:ah8@uyf",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Solution</b></div><div><br></div><div>{{c1::Algorithm}} that {{c1::always gives correct outputs}} when {{c1::provided with valid inputs}}</div>",
+                                ""
+                            ],
+                            "guid": "wO7BD=xh]H",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Sub-problem</b></div><div><br></div><div>A problem whose solution {{c1::contributes to the solution of a bigger problem}}</div>",
+                                ""
+                            ],
+                            "guid": "fZk.w.-<_5",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Decomposition</b></div><div><b><br></b></div><div>{{c1::Breaking down a complex problem into smaller and more manageable parts}}</div>",
+                                ""
+                            ],
+                            "guid": "N!@~aIHhiE",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Pattern Recognition</b></div><div><br></div><div>{{c1::Identifying similarities among two or more items}}</div>",
+                                ""
+                            ],
+                            "guid": "ThocwcObl",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Generalisation</b></div><div><b><br></b></div><div>Technique of {{c1::replacing two or more similar problems or solution}} with a {{c1::single, more general problem or solution}}</div>",
+                                ""
+                            ],
+                            "guid": "M[e`5d1cB!",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Dry run</b></div><div><br></div><div>Process of {{c1::running through a set of steps manually}}</div>",
+                                ""
+                            ],
+                            "guid": "DdXac~9j+~",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Test data</b></div><div><b><br></b></div><div>{{c1::Input data that is used to perform a dry run}}</div>",
+                                ""
+                            ],
+                            "guid": "sk|eHu9HeE",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Trace table</b></div><div><b><br></b></div><div>{{c1::Tabulation of the change in variables as well as the output of an algorithm}}</div>",
+                                ""
+                            ],
+                            "guid": "rVsncD1]^r",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Pseudo-code</b></div><div><b><br></b></div><div>{{c1::Description of algorithm}} using {{c1::natural language}} mixed with {{c1::sequence, selection and iteration constructs}}</div>",
+                                ""
+                            ],
+                            "guid": "Lkb)2FBrH*",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
             "crowdanki_uuid": "2c73827f-3430-11ed-8941-1418c39411c3",
             "deck_config_uuid": "2c4ba783-3430-11ed-af17-1418c39411c3",
             "desc": "",
@@ -130,7 +744,332 @@
         },
         {
             "__type__": "Deck",
-            "children": [],
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "3f8d25fd-35cb-11ed-9ccc-1418c39411c3",
+                    "deck_config_uuid": "2c4ba783-3430-11ed-af17-1418c39411c3",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Key Terms",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Instruction Set</b></div><div><br></div><div>Set of {{c1::basic commands or instructions}} that a {{c1::processor can understand directly}}, {{c1::represented in byte form}}</div>",
+                                ""
+                            ],
+                            "guid": "kGXtf9QV{[",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Machine Code</b></div><div><br></div><div>{{c1::Instructions}} that {{c2::can run directly on a computer’s processor}}</div>",
+                                ""
+                            ],
+                            "guid": "IXTt[u$&v9",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Program</b></div><div><b><br></b></div><div>{{c1::Set of instructions}} written to {{c1::perform specific tasks on a computer}}</div>",
+                                ""
+                            ],
+                            "guid": "Bt:TQQN}Y0",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Programming Language</b></div><div><br></div><div>Language designed for {{c1::humans to communicate instructions to computers}}</div>",
+                                ""
+                            ],
+                            "guid": "j2LM9>`277",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Source Code</b></div><div><b><br></b></div><div>{{c1::Instructions}} written in a {{c1::programming language that both humans and computers can understand}}</div><br>",
+                                ""
+                            ],
+                            "guid": "zRw}oG`pm2",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Syntax</b></div><div><br></div><div>{{c1::Rules that determine how the words and symbols in a valid instruction are arranged}}</div>",
+                                ""
+                            ],
+                            "guid": "E]1nto}M5(",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Compiler</b></div><div><b><br></b></div><div>{{c1::Code translator}} program that {{c1::translates source code into machine code completely before running the compiled program}}</div>",
+                                ""
+                            ],
+                            "guid": "MmL)N~G:AD",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Interpreter</b></div><div><b><br></b></div><div>{{c1::Code translator}} program that {{c1::translates source code into machine code while the interpreted program is running}}</div>",
+                                ""
+                            ],
+                            "guid": "Og8C`~q9aJ",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Type Casting</b></div><div><br></div><div>Process of {{c1::converting a value from one data type to another}}</div>",
+                                ""
+                            ],
+                            "guid": "M9[Y]lvA*5",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Concatenation</b></div><div><b><br></b></div><div>{{c1::Joining two sequences to make a longer sequence}}</div>",
+                                ""
+                            ],
+                            "guid": "Dq30NG[gf)",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Control Flow Statement</b></div><div><b><br></b></div><div>{{c1::Programming instruction that changes the order in which other instructions are run}}</div>",
+                                "<br>Example: Python if-elif-else statement"
+                            ],
+                            "guid": "ytVI+@X&8o",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Test Case</b></div><div><b><br></b></div><div>{{c1::A set of inputs}} and {{c1::the corresponding set of expected outputs}} for a <b><span style=\"font-weight: 400;\">particular program used to&nbsp;</span></b>{{c1::<b><span style=\"font-weight: 400;\">verify whether the program works as intended</span></b>}}</div>",
+                                ""
+                            ],
+                            "guid": "dWJAS/p(pf",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Testing</b></div><div><b><br></b></div><div>{{c1::Process by which defects in a program can be detected}}</div>",
+                                ""
+                            ],
+                            "guid": "/c|_7,EOZ",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Module</b></div><div><b><br></b></div><div>{{c1::Collection of variables and functions that need to be loaded before they can be used}}</div>",
+                                ""
+                            ],
+                            "guid": "d:cMyM?-xV",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Character</b></div><div><br></div><div>{{c1::A unit of information for strings, usually a symbol, letter or digit.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "u!3AXwapib",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Check Digit</b></div><div><br></div><div>{{c1::Digit or letter}} that is {{c1::added to a sequence of digits}} to {{c1::detect errors in manual input}}</div>",
+                                ""
+                            ],
+                            "guid": "r]OpqH|&a^",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Data Validation</b></div><div><b><br></b></div><div>Process of {{c1::ensuring that the input data supplied to a system}} satisfies {{c1::a set of rules}} such that {{c1::it is sensible, complete and within acceptable boundaries}}.</div>",
+                                ""
+                            ],
+                            "guid": "m6A}5g<iV|",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Length Check</b></div><div><br></div><div>Process of {{c1::ensuring that input data is not too short or too long}}</div>",
+                                ""
+                            ],
+                            "guid": "ru%3]Hk.5e",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Range Check</b></div><div><br></div><div>Process of&nbsp;{{c1::ensuring that input data is within the required range of values}}</div>",
+                                ""
+                            ],
+                            "guid": "e>B1t|oj=F",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Presence Check</b></div><div><b><br></b></div><div>Process of {{c1::ensuring that all the required inputs are provided}}</div>",
+                                ""
+                            ],
+                            "guid": "C_a>rzZMax",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Format Check</b></div><div><b><br></b></div><div>Process of&nbsp;{{c1::ensuring that input data matches a required arrangement or pattern}}</div>",
+                                ""
+                            ],
+                            "guid": "q:?1pZ>hOf",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Crash</b></div><div><br></div><div>{{c1::Sudden stop of a program due to an error}}</div>",
+                                ""
+                            ],
+                            "guid": "7T#IO0k}{",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Hang</b></div><div><br></div><div>{{c1::Unresponsiveness of a program due to an error}}</div>",
+                                ""
+                            ],
+                            "guid": "q97iZwojrY",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Run-time Error</b></div><div><br></div><div>Error that occurs&nbsp;{{c1::while the program is running}}</div>",
+                                ""
+                            ],
+                            "guid": "HC34ucC=BG",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Logic Error</b></div><div><br></div><div>Error that {{c1::causes the output of a program to be different from what is expected}}</div>",
+                                ""
+                            ],
+                            "guid": "B$t60]s7q1",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Syntax Error</b></div><div><b><br></b></div><div>Result of {{c1::incorrect source code that does not follow the rules of the language}}</div>",
+                                ""
+                            ],
+                            "guid": "yy1m>cA|EZ",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Normal Conditions (programming)</b></div><div><b><br></b></div><div>Situations where {{c1::input data follows what is expected during normal use of the program}}</div>",
+                                ""
+                            ],
+                            "guid": "AX^>PHpku2",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Boundary Conditions (programming)</b></div><div><br></div><div>Situations where {{c1::input data is at the limit of what the program is designed to cope with or where special handling is required}}</div>",
+                                ""
+                            ],
+                            "guid": "hI[3pe2MeG",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Error Conditions (programming)</b></div><div><br></div><div>Situations where {{c1::input data would normally be rejected by the program}}</div>",
+                                ""
+                            ],
+                            "guid": "v<`DwUQ:!+",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Bug</b></div><div><br></div><div>{{c1::Defect in a program that causes it to behave in an unintended manner}}</div>",
+                                ""
+                            ],
+                            "guid": "C69&GPv%t?",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Debugging</b></div><div><br></div><div>Process of {{c1::identifying and removing defects from a program}}</div>",
+                                ""
+                            ],
+                            "guid": "ne?A@K]4gx",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
             "crowdanki_uuid": "2c85aae9-3430-11ed-b9e0-1418c39411c3",
             "deck_config_uuid": "2c4ba783-3430-11ed-af17-1418c39411c3",
             "desc": "",
@@ -200,7 +1139,7 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [],
-    "name": "O-Level Computing (7155)",
+    "name": "GCE O-Level Computing [ver. 0.1]",
     "note_models": [
         {
             "__type__": "NoteModel",
