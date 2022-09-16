@@ -770,7 +770,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<div><b>Machine Code</b></div><div><br></div><div>{{c1::Instructions}} that {{c2::can run directly on a computer’s processor}}</div>",
+                                "<div><b>Machine Code</b></div><div><br></div><div>{{c1::Instructions}} that {{c1::can run directly on a computer’s processor}}</div>",
                                 ""
                             ],
                             "guid": "IXTt[u$&v9",
