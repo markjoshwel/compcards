@@ -350,7 +350,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div><b>Signature (malware)</b></div><div><br></div><div>{{c1::Unique evidence}} that is used to {{c1::detect a known version of some malicious software}}</div>",
+                                        "<div><b>Signature (malware)</b></div><div><br></div><div>{{c1::Unique evidence}} that is used to {{c1::detect a known version}} of some malicious software</div>",
                                         ""
                                     ],
                                     "guid": "i8Oe`-1^18",
@@ -583,7 +583,21 @@
         },
         {
             "__type__": "Deck",
-            "children": [],
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "1899c03c-364e-11ed-aba1-1418c39411c3",
+                    "deck_config_uuid": "2c4ba783-3430-11ed-af17-1418c39411c3",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Key Terms",
+                    "notes": []
+                }
+            ],
             "crowdanki_uuid": "2c97fa54-3430-11ed-9c51-1418c39411c3",
             "deck_config_uuid": "2c4ba783-3430-11ed-af17-1418c39411c3",
             "desc": "",
@@ -764,16 +778,6 @@
                                 ""
                             ],
                             "guid": "kGXtf9QV{[",
-                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div><b>Machine Code</b></div><div><br></div><div>{{c1::Instructions}} that {{c1::can run directly on a computer’s processor}}</div>",
-                                ""
-                            ],
-                            "guid": "IXTt[u$&v9",
                             "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
                             "tags": []
                         },
@@ -1066,6 +1070,16 @@
                             "guid": "ne?A@K]4gx",
                             "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Machine Code</b></div><div><br></div><div>{{c1::Instructions}} that {{c1::can run directly on a computer’s processor}}</div>",
+                                ""
+                            ],
+                            "guid": "zr7eeWMr9h",
+                            "note_model_uuid": "02b5f100-34e0-11ed-8990-1418c39411c3",
+                            "tags": []
                         }
                     ]
                 }
@@ -1136,7 +1150,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 0,
+    "extendNew": 100,
     "extendRev": 0,
     "media_files": [],
     "name": "GCE O-Level Computing [ver. 0.1]",
