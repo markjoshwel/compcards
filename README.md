@@ -2,14 +2,21 @@
 
 Anki Flashcards for [O-Level Computing (7155)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/7155_y22_sy.pdf) Theory.
 
-| ~Download~ |
+> **Warning**
+>
+> This does not cover all content covered in the Theory Notes, nor the textbook.
+> These flashcards covers all definitions/key terms, alongside **selected** content such as ethical, social and economic issues.
+> 
+> _Please review these flashcards in hand with the theory notes, or the textbook for proper revision on a topic._
+
+| ~Download~ (Not ready yet!) |
 | --- |
 
 ## What is Anki?
 
 > Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn.
 
-Basically, Anki is a flashcard app with a [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition)-based memorisation system. You can also do the whole deck at once if that's your style, or if the exam is tomorrow.
+Basically, Anki is a flashcard app with a [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition)-based memorisation system. However, you can also do the whole deck at once if that's your style, or if the exam is tomorrow.
 
 ## Importing into Anki
 
@@ -27,17 +34,13 @@ TODO
 
 TODO
 
-### [AnkiMobile Flashcards (iOS)](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387)
-
-TODO
-
 ## Contributing
 
 There are three ways to contribute.
 
-1. Tell me personally!
+1. Tell me personally
 
-   You probably know me personally if you are browsing this deck. Give me a text and I'll fix up the deck.
+   You probably know me personally if you are browsing this deck. Give me a text and I'll fix it up.
 
 2. Create an Issue
 
