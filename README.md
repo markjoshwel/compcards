@@ -4,10 +4,9 @@ Anki Flashcards for [O-Level Computing (7155)](https://www.seab.gov.sg/docs/defa
 
 > **Warning**
 >
-> These flashcards do not cover all content covered in the Theory Notes, nor the textbook.
-> These flashcards covers all definitions/key terms, alongside **selected** content such as the "Ethical, Social and Economic Issues" sub-topic.
+> These flashcards only cover all definitions/key terms listed in the Theory Notes, alongside **selected** content.
 > 
-> _Please review these flashcards hand in hand with the Theory Notes or textbook for proper revision on a topic._
+> As with the Theory Notes, these flashcards are neither standalone nor replace the textbook or theory notes but are complementary alongside it. Please refer to the textbook for a thorough breakdown and teaching of a topic.
 
 | [Download](https://github.com/markjoshwel/compcards/releases/latest/download/compcards.apkg) |
 | --- |
