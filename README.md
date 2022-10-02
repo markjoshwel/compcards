@@ -9,7 +9,7 @@ Anki Flashcards for [O-Level Computing (7155)](https://www.seab.gov.sg/docs/defa
 > 
 > _Please review these flashcards hand in hand with the Theory Notes or textbook for proper revision on a topic._
 
-| ~Download~ (Not ready yet!) |
+| [Download](https://github.com/markjoshwel/compcards/releases/latest/download/compcards.apkg) |
 | --- |
 
 ## What is Anki?
@@ -20,19 +20,25 @@ Basically, Anki is a flashcard app with a [spaced repetition](https://en.wikiped
 
 ## Importing into Anki
 
-Firstly, get the Anki Collection Package (*.colpkg) file over at the [Releases page](https://github.com/markjoshwel/compcards/releases). Or, alternatively, retrieve the latest release from the big shiny "Download" button at the top of the README.
+Firstly, get the Anki Deck Package (*.apkg) file over at the [Releases page](https://github.com/markjoshwel/compcards/releases). Or, alternatively, retrieve the latest release from the big shiny "Download" button at the top of the README.
 
 ### [Anki Desktop](https://apps.ankiweb.net/) (Windows 7/10+, macOS, Linux)
 
-TODO
+1. Import the deck through `File > Import`.
+2. Navigate and select the Anki Deck Package (*.apkg) file.
+3. You now are able to access the deck!
 
 ### [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
-TODO
+1. Tap the three dots in the top-right hand corner.
+2. Tap on `Import`.
+3. Navigate and select the Anki Deck Package (*.apkg) file.
+4. You now are able to access the deck!
 
 ### [AnkiWeb](https://ankiweb.net/decks/)
 
-TODO
+1. From your phone or Desktop, sync to AnkiWeb
+2. You now are able to access the deck!
 
 ## Contributing
 
